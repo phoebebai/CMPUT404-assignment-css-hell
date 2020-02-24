@@ -1,0 +1,53 @@
+body {
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: justify;
+}
+
+header {
+	padding: 60px;
+	text-align: center;
+	background: #bcb599;
+	color: white;
+	font-size: 30px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	text-align: center;
+	font-size: 30px;
+	background: #bcb599;
+}
+
+P {
+	text-indent: 1em;
+	margin-top: .25em;
+	margin-bottom: .25em;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+}
+
+pre {
+	font-style: italic;
+	font-size: 20px;
+	margin-left: 10%;
+}
+
+img {
+	border-radius: 50%;
+}
+
+figcaption {
+	text-align:center;
+	font-size: 30px;
+	background: #3f7e80;
+}
+
+div.fig {
+	display:block;
+	margin:0 auto;
+	text-align:center;
+}
